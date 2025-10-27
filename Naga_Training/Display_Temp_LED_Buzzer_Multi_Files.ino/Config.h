@@ -6,7 +6,7 @@ constexpr unsigned long USB_BAUD = 9600;
 
 // Thresholds
 constexpr float TEMP_HIGH = 50.0f;   // °C
-constexpr float CH4_HIGH  = 1000.0f; // ppm
+constexpr float CH4_HIGH  = 800.0f; // ppm
 
 // LED pins (either 3 discrete LEDs or an RGB LED channels)
 constexpr int LED_GREEN_PIN = 6;
