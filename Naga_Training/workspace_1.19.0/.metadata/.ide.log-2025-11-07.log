@@ -1,0 +1,125 @@
+2025-11-08 00:00:12,049 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 483294104 Bytes (685768704)
+2025-11-08 00:00:14,827 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 523139992 Bytes (685768704)
+2025-11-08 00:00:17,460 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 604438376 Bytes (685768704)
+2025-11-08 00:00:17,885 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-08 00:00:17,885 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-08 00:00:17,886 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-08 00:00:17,888 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-08 00:00:18,002 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp_save
+2025-11-08 00:00:18,319 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp
+2025-11-08 00:00:18,365 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp_save
+2025-11-08 00:00:18,530 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp
+2025-11-08 00:00:18,559 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c_save
+2025-11-08 00:00:18,877 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c
+2025-11-08 00:00:18,893 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h_save
+2025-11-08 00:00:19,005 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h
+2025-11-08 00:00:19,052 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-08 00:00:19,226 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c
+2025-11-08 00:00:19,244 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp_save
+2025-11-08 00:00:19,352 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp
+2025-11-08 00:00:19,385 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-08 00:00:19,570 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-08 00:00:19,674 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h_save
+2025-11-08 00:00:19,882 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h
+2025-11-08 00:00:19,907 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c_save
+2025-11-08 00:00:20,105 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c
+2025-11-08 00:00:20,759 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 344mS.
+2025-11-08 00:00:20,766 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-08 00:00:20,889 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-08 00:00:22,358 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1592mS.
+2025-11-08 00:00:22,360 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-08 00:00:22,370 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-11-08 00:01:59,398 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-08 00:02:33,274 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 541918168 Bytes (685768704)
+2025-11-08 00:02:34,881 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 571178240 Bytes (685768704)
+2025-11-08 00:02:36,915 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 614180592 Bytes (685768704)
+2025-11-08 00:02:37,246 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-08 00:02:37,247 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-08 00:02:37,247 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-08 00:02:37,249 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-08 00:02:37,375 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp_save
+2025-11-08 00:02:37,471 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp
+2025-11-08 00:02:37,509 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp_save
+2025-11-08 00:02:37,611 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp
+2025-11-08 00:02:37,637 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c_save
+2025-11-08 00:02:37,738 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c
+2025-11-08 00:02:37,755 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h_save
+2025-11-08 00:02:37,843 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h
+2025-11-08 00:02:37,877 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-08 00:02:38,013 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c
+2025-11-08 00:02:38,029 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp_save
+2025-11-08 00:02:38,116 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp
+2025-11-08 00:02:38,146 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-08 00:02:38,242 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-08 00:02:38,292 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h_save
+2025-11-08 00:02:38,401 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h
+2025-11-08 00:02:38,424 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c_save
+2025-11-08 00:02:38,582 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c
+2025-11-08 00:02:39,134 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 300mS.
+2025-11-08 00:02:39,140 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-08 00:02:39,243 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-08 00:02:40,509 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1369mS.
+2025-11-08 00:02:40,511 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-08 00:02:40,517 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-08 07:34:51,229 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 348648184 Bytes (685768704)
+2025-11-08 07:34:51,420 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-08 07:34:51,420 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-08 07:34:51,421 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-08 07:34:51,423 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-08 07:34:51,530 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp_save
+2025-11-08 07:34:51,641 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp
+2025-11-08 07:34:51,673 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp_save
+2025-11-08 07:34:51,787 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp
+2025-11-08 07:34:51,818 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c_save
+2025-11-08 07:34:52,001 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c
+2025-11-08 07:34:52,013 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h_save
+2025-11-08 07:34:52,102 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h
+2025-11-08 07:34:52,135 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-08 07:34:52,279 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c
+2025-11-08 07:34:52,292 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp_save
+2025-11-08 07:34:52,377 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp
+2025-11-08 07:34:52,407 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-08 07:34:52,507 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-08 07:34:52,582 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h_save
+2025-11-08 07:34:52,711 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h
+2025-11-08 07:34:52,726 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c_save
+2025-11-08 07:34:52,878 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c
+2025-11-08 07:34:53,427 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 312mS.
+2025-11-08 07:34:53,433 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-08 07:34:53,528 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-08 07:34:54,655 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1222mS.
+2025-11-08 07:34:54,656 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-08 07:34:54,663 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-08 08:00:52,869 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-08 08:00:59,594 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-08 08:01:04,283 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 277062784 Bytes (685768704)
+2025-11-08 08:01:05,998 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 295529720 Bytes (685768704)
+2025-11-08 08:01:08,293 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 361498920 Bytes (685768704)
+2025-11-08 08:01:08,898 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-08 08:01:08,898 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-08 08:01:08,899 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-08 08:01:08,902 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-08 08:01:09,064 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp_save
+2025-11-08 08:01:09,409 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\license.tmp
+2025-11-08 08:01:09,466 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp_save
+2025-11-08 08:01:09,638 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\gpio.tmp
+2025-11-08 08:01:09,668 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c_save
+2025-11-08 08:01:10,034 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_it.c
+2025-11-08 08:01:10,050 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h_save
+2025-11-08 08:01:10,181 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_it.h
+2025-11-08 08:01:10,232 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-08 08:01:10,426 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\stm32f1xx_hal_msp.c
+2025-11-08 08:01:10,439 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp_save
+2025-11-08 08:01:10,569 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\MXTmpFiles\system.tmp
+2025-11-08 08:01:10,599 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-08 08:01:10,731 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-08 08:01:10,788 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h_save
+2025-11-08 08:01:10,986 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Inc\main.h
+2025-11-08 08:01:11,005 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c_save
+2025-11-08 08:01:11,180 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\LED_Blink\Core\Src\main.c
+2025-11-08 08:01:11,899 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 320mS.
+2025-11-08 08:01:11,909 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-08 08:01:12,032 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-08 08:01:13,897 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1988mS.
+2025-11-08 08:01:13,899 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-08 08:01:13,907 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.

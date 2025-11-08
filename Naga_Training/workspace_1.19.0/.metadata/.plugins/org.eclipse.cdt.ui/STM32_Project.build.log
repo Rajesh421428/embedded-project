@@ -1,0 +1,73 @@
+22:33:54 **** Incremental Build of configuration Debug for project STM32_Project ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/lcd_i2c.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/lcd_i2c.d" -MT"Core/Src/lcd_i2c.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/lcd_i2c.o"
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:96:3: warning: implicit declaration of function 'LED_Init' [-Wimplicit-function-declaration]
+   96 |   LED_Init();
+      |   ^~~~~~~~
+../Core/Src/main.c:98:3: warning: implicit declaration of function 'LCD_Init' [-Wimplicit-function-declaration]
+   98 |   LCD_Init(&hi2c1);
+      |   ^~~~~~~~
+../Core/Src/main.c:98:13: error: 'hi2c1' undeclared (first use in this function)
+   98 |   LCD_Init(&hi2c1);
+      |             ^~~~~
+../Core/Src/main.c:98:13: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:99:3: warning: implicit declaration of function 'LCD_Clear' [-Wimplicit-function-declaration]
+   99 |   LCD_Clear();
+      |   ^~~~~~~~~
+../Core/Src/main.c:100:3: warning: implicit declaration of function 'LCD_SetCursor' [-Wimplicit-function-declaration]
+  100 |   LCD_SetCursor(0,0);
+      |   ^~~~~~~~~~~~~
+../Core/Src/main.c:101:3: warning: implicit declaration of function 'LCD_Print' [-Wimplicit-function-declaration]
+  101 |   LCD_Print("LED: OFF");
+      |   ^~~~~~~~~
+In file included from ../Core/Src/lcd_i2c.c:1:
+../Core/Inc/lcd_i2c.h:15:15: error: unknown type name 'I2C_HandleTypeDef'; did you mean 'DMA_HandleTypeDef'?
+   15 | void LCD_Init(I2C_HandleTypeDef *hi2c);
+      |               ^~~~~~~~~~~~~~~~~
+      |               DMA_HandleTypeDef
+../Core/Src/lcd_i2c.c:10:8: error: unknown type name 'I2C_HandleTypeDef'
+   10 | static I2C_HandleTypeDef *h = NULL;
+      |        ^~~~~~~~~~~~~~~~~
+../Core/Src/main.c:109:11: warning: implicit declaration of function 'LED_Toggle' [-Wimplicit-function-declaration]
+  109 |           LED_Toggle();
+      |           ^~~~~~~~~~
+../Core/Src/main.c:112:25: warning: implicit declaration of function 'LED_IsOn' [-Wimplicit-function-declaration]
+  112 |           uint8_t now = LED_IsOn() ? 1 : 0;
+      |                         ^~~~~~~~
+../Core/Src/main.c:163:13: error: invalid storage class for function 'MX_GPIO_Init'
+  163 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:212:1: error: expected declaration or statement at end of input
+  212 | }
+      | ^
+../Core/Src/main.c: At top level:
+../Core/Src/main.c:50:13: warning: 'MX_GPIO_Init' used but never defined
+   50 | static void MX_GPIO_Init(void);
+      |             ^~~~~~~~~~~~
+../Core/Src/lcd_i2c.c: In function 'i2c_write':
+../Core/Src/lcd_i2c.c:15:5: warning: implicit declaration of function 'HAL_I2C_Master_Transmit' [-Wimplicit-function-declaration]
+   15 |     HAL_I2C_Master_Transmit(h, LCD_I2C_ADDR, &data, 1, HAL_MAX_DELAY);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/lcd_i2c.c: At top level:
+../Core/Src/lcd_i2c.c:52:15: error: unknown type name 'I2C_HandleTypeDef'; did you mean 'DMA_HandleTypeDef'?
+   52 | void LCD_Init(I2C_HandleTypeDef *hi2c)
+      |               ^~~~~~~~~~~~~~~~~
+      |               DMA_HandleTypeDef
+make: *** [Core/Src/subdir.mk:40: Core/Src/lcd_i2c.o] Error 1
+make: *** Waiting for unfinished jobs....
+../Core/Src/main.c:203:6: warning: 'Error_Handler' defined but not used [-Wunused-function]
+  203 | void Error_Handler(void)
+      |      ^~~~~~~~~~~~~
+../Core/Src/main.c:163:13: warning: 'MX_GPIO_Init' defined but not used [-Wunused-function]
+  163 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:126:6: warning: 'SystemClock_Config' defined but not used [-Wunused-function]
+  126 | void SystemClock_Config(void)
+      |      ^~~~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:40: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+22:33:56 Build Failed. 9 errors, 12 warnings. (took 1s.786ms)
+

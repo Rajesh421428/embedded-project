@@ -1,0 +1,26 @@
+#include "led.h"
+
+void LED_Init(void)
+{
+    __HAL_RCC_GPIOC_CLK_ENABLE();
+
+    GPIO_InitTypeDef g = {0};
+    g.Pin   = GPIO_PIN_13;
+    g.Mode  = GPIO_MODE_OUTPUT_PP;
+    g.Pull  = GPIO_NOPULL;
+    g.Speed = GPIO_SPEED_FREQ_LOW;
+    HAL_GPIO_Init(GPIOC, &g);
+
+    // Start OFF (active-LOW LED, so set pin HIGH)
+    HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_SET);
+}
+
+void LED_On(void)   { HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET); } // active-LOW
+void LED_Off(void)  { HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_SET); }
+void LED_Toggle(void){ HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13); }
+
+bool LED_IsOn(void)
+{
+    // active-LOW: ON when pin reads RESET(0)
+    return (HAL_GPIO_ReadPin(GPIOC, GPIO_PIN_13) == GPIO_PIN_RESET);
+}

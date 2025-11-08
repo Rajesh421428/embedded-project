@@ -1,0 +1,2 @@
+../Core/Src/ir_sensor.c:3:6:IR_Sensor_Init	32	static
+../Core/Src/ir_sensor.c:18:9:IR_Sensor_Read	16	static

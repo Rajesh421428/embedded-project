@@ -1,0 +1,633 @@
+2025-11-02 00:13:25,423 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:19:16,983 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:20:08,023 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 263093984 Bytes (843055104)
+2025-11-02 00:20:10,928 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 308182752 Bytes (843055104)
+2025-11-02 00:20:16,742 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 416904944 Bytes (843055104)
+2025-11-02 00:20:17,486 [WARN] MainUpdater:876 - Updater busy. Cannot search getManifestVersion
+2025-11-02 00:20:17,487 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 00:20:17,488 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 00:20:17,488 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 00:20:17,492 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 00:20:17,717 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 00:20:18,272 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 00:20:18,554 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 00:20:18,840 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 00:20:18,888 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 00:20:19,651 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 00:20:19,681 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 00:20:19,893 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 00:20:19,961 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 00:20:20,278 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 00:20:20,301 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 00:20:20,476 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 00:20:20,521 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 00:20:20,730 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 00:20:20,842 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 00:20:21,175 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 00:20:21,202 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 00:20:21,542 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 00:20:22,634 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 522mS.
+2025-11-02 00:20:22,646 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 00:20:22,869 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 00:20:26,796 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 4150mS.
+2025-11-02 00:20:26,799 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-02 00:20:26,814 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 00:25:24,177 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 610071712 Bytes (843055104)
+2025-11-02 00:25:24,914 [WARN] MainUpdater:876 - Updater busy. Cannot search getManifestVersion
+2025-11-02 00:25:24,916 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 00:25:24,917 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 00:25:24,917 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 00:25:24,920 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 00:25:25,144 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 00:25:25,343 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 00:25:25,404 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 00:25:25,614 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 00:25:25,662 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 00:25:25,898 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 00:25:25,926 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 00:25:26,107 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 00:25:26,171 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 00:25:26,427 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 00:25:26,450 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 00:25:26,643 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 00:25:26,690 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 00:25:26,917 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 00:25:26,998 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 00:25:27,195 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 00:25:27,222 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 00:25:27,478 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 00:25:28,274 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 373mS.
+2025-11-02 00:25:28,283 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 00:25:28,442 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 00:25:30,735 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 2452mS.
+2025-11-02 00:25:30,739 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-02 00:25:30,758 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 00:28:32,712 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:28:40,195 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 332340072 Bytes (843055104)
+2025-11-02 00:28:42,131 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 350612376 Bytes (843055104)
+2025-11-02 00:28:44,390 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 410839504 Bytes (843055104)
+2025-11-02 00:28:44,868 [WARN] MainUpdater:876 - Updater busy. Cannot search getManifestVersion
+2025-11-02 00:28:44,870 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 00:28:44,870 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 00:28:44,870 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 00:28:44,873 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 00:28:45,067 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 00:28:45,221 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 00:28:45,272 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 00:28:45,443 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 00:28:45,483 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 00:28:45,650 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 00:28:45,672 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 00:28:45,801 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 00:28:45,850 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 00:28:46,039 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 00:28:46,054 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 00:28:46,180 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 00:28:46,215 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 00:28:46,338 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 00:28:46,398 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 00:28:46,556 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 00:28:46,575 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 00:28:46,754 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 00:28:47,465 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 352mS.
+2025-11-02 00:28:47,473 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 00:28:47,616 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 00:28:49,610 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 2136mS.
+2025-11-02 00:28:49,612 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-02 00:28:49,625 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 00:45:54,515 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:46:03,209 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:47:04,919 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:47:14,466 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:47:26,322 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:47:37,400 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:48:29,342 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 731446008 Bytes (843055104)
+2025-11-02 00:48:31,443 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 539894584 Bytes (843055104)
+2025-11-02 00:48:35,473 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 537067392 Bytes (843055104)
+2025-11-02 00:48:36,252 [WARN] MainUpdater:876 - Updater busy. Cannot search getManifestVersion
+2025-11-02 00:48:36,254 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 00:48:36,255 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 00:48:36,255 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 00:48:36,259 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 00:48:36,470 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 00:48:37,096 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 00:48:37,173 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 00:48:37,508 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 00:48:37,558 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 00:48:38,220 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 00:48:38,247 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 00:48:38,468 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 00:48:38,536 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 00:48:38,870 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 00:48:38,893 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 00:48:39,088 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 00:48:39,137 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 00:48:39,381 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 00:48:39,490 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 00:48:39,778 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 00:48:39,808 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 00:48:40,153 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 00:48:41,427 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 498mS.
+2025-11-02 00:48:41,440 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 00:48:41,678 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 00:48:44,882 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 3441mS.
+2025-11-02 00:48:44,884 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-02 00:48:44,898 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-11-02 00:49:57,878 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 00:50:04,096 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 497924288 Bytes (843055104)
+2025-11-02 00:50:06,065 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 516852248 Bytes (843055104)
+2025-11-02 00:50:25,703 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 582624960 Bytes (843055104)
+2025-11-02 00:50:26,557 [WARN] MainUpdater:876 - Updater busy. Cannot search getManifestVersion
+2025-11-02 00:50:26,559 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 00:50:26,560 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 00:50:26,561 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 00:50:26,564 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 00:50:26,896 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 00:50:27,327 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 00:50:27,404 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 00:50:27,645 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 00:50:27,698 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 00:50:27,967 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 00:50:27,998 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 00:50:28,231 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 00:50:28,302 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 00:50:28,616 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 00:50:28,637 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 00:50:28,820 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 00:50:28,865 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 00:50:29,068 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 00:50:29,171 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 00:50:29,381 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 00:50:29,409 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 00:50:29,782 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 00:50:30,915 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 559mS.
+2025-11-02 00:50:30,929 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 00:50:31,201 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 00:50:34,600 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 3670mS.
+2025-11-02 00:50:34,603 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-02 00:50:34,619 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-11-02 08:07:34,247 [INFO] WebApp:194 - Connection lost
+2025-11-02 08:07:43,898 [INFO] WebApp:191 - Connection restablished
+2025-11-02 08:07:44,252 [INFO] WebApp:194 - Connection lost
+2025-11-02 08:07:44,418 [INFO] WebApp:191 - Connection restablished
+2025-11-02 08:07:45,257 [INFO] WebApp:194 - Connection lost
+2025-11-02 08:07:45,414 [INFO] WebApp:191 - Connection restablished
+2025-11-02 14:01:45,961 [INFO] WebApp:194 - Connection lost
+2025-11-02 14:01:46,609 [INFO] WebApp:191 - Connection restablished
+2025-11-02 18:32:05,434 [INFO] WebApp:194 - Connection lost
+2025-11-02 18:32:05,639 [INFO] WebApp:191 - Connection restablished
+2025-11-02 18:44:38,225 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 18:44:49,728 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 18:59:55,134 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 293135272 Bytes (828375040)
+2025-11-02 18:59:57,475 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 312323744 Bytes (828375040)
+2025-11-02 19:00:00,210 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 376301880 Bytes (828375040)
+2025-11-02 19:00:01,025 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 19:00:01,025 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 19:00:01,026 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 19:00:01,030 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 19:00:01,296 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 19:00:01,629 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 19:00:01,733 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 19:00:01,927 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 19:00:01,967 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 19:00:02,425 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 19:00:02,445 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 19:00:02,581 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 19:00:02,657 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 19:00:02,856 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 19:00:02,874 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 19:00:02,983 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 19:00:03,018 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 19:00:03,163 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 19:00:03,246 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 19:00:03,435 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 19:00:03,455 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 19:00:03,640 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 19:00:04,472 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 480mS.
+2025-11-02 19:00:04,483 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 19:00:04,783 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 19:00:07,283 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 2800mS.
+2025-11-02 19:00:07,286 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 19:00:07,296 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 20:23:17,334 [INFO] MainUpdater:2872 - connection check result : 10
+2025-11-02 20:23:17,478 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 20:23:17,504 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 20:23:17,504 [INFO] FinderPluginLoader:96 - Searching for filters in installed packs
+2025-11-02 20:23:20,931 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 20:23:20,932 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 20:23:47,524 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 20:23:47,617 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 20:23:47,617 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 20:24:10,673 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 20:24:11,060 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2025-11-02 20:24:11,060 [INFO] ApiDb:452 - User favorites MCUs=[]
+2025-11-02 20:24:11,063 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2025-11-02 20:24:11,063 [INFO] ApiDb:452 - User favorites Boards=[]
+2025-11-02 20:26:58,109 [INFO] MainUpdater:2872 - connection check result : 10
+2025-11-02 20:26:58,202 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 20:26:58,203 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 20:26:58,203 [INFO] FinderPluginLoader:96 - Searching for filters in installed packs
+2025-11-02 20:26:59,423 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 20:26:59,424 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 20:27:33,746 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 20:27:33,808 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 20:27:33,809 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 20:27:38,230 [INFO] ApiDb:581 - Connected to CubeFinder SQLite database (C:\Users\HP\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2025-11-02 20:28:32,884 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 20:28:33,138 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2025-11-02 20:28:33,138 [INFO] ApiDb:452 - User favorites MCUs=[]
+2025-11-02 20:28:33,153 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2025-11-02 20:28:33,153 [INFO] ApiDb:452 - User favorites Boards=[]
+2025-11-02 19:30:29,002 [INFO] WebApp:194 - Connection lost
+2025-11-02 19:30:29,483 [INFO] WebApp:191 - Connection restablished
+2025-11-02 20:50:51,851 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 20:50:54,600 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 526797904 Bytes (814743552)
+2025-11-02 20:50:56,578 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 544805184 Bytes (814743552)
+2025-11-02 20:50:59,198 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 602669904 Bytes (814743552)
+2025-11-02 20:50:59,660 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 20:50:59,661 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 20:50:59,661 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 20:50:59,663 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 20:50:59,794 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 20:51:00,229 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 20:51:00,287 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 20:51:00,489 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 20:51:00,519 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 20:51:01,067 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 20:51:01,085 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 20:51:01,218 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 20:51:01,264 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 20:51:01,469 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 20:51:01,483 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 20:51:01,614 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 20:51:01,646 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 20:51:01,785 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 20:51:01,839 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 20:51:02,054 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 20:51:02,072 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 20:51:02,258 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 20:51:03,021 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 340mS.
+2025-11-02 20:51:03,029 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 20:51:03,158 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 20:51:05,009 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1980mS.
+2025-11-02 20:51:05,011 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-11-02 20:51:05,021 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 20:52:26,525 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 20:52:30,867 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 491771608 Bytes (814743552)
+2025-11-02 20:52:32,660 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 509398192 Bytes (814743552)
+2025-11-02 20:52:34,593 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 570737840 Bytes (814743552)
+2025-11-02 20:52:34,993 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 20:52:34,993 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 20:52:34,993 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 20:52:34,995 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 20:52:35,100 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp_save
+2025-11-02 20:52:35,193 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\license.tmp
+2025-11-02 20:52:35,225 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp_save
+2025-11-02 20:52:35,321 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\gpio.tmp
+2025-11-02 20:52:35,346 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 20:52:35,442 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_it.c
+2025-11-02 20:52:35,456 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 20:52:35,559 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_it.h
+2025-11-02 20:52:35,597 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 20:52:35,718 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 20:52:35,732 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp_save
+2025-11-02 20:52:35,809 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\MXTmpFiles\system.tmp
+2025-11-02 20:52:35,840 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 20:52:35,942 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 20:52:35,983 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h_save
+2025-11-02 20:52:36,079 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Inc\main.h
+2025-11-02 20:52:36,093 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c_save
+2025-11-02 20:52:36,229 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\First-project\Core\Src\main.c
+2025-11-02 20:52:36,803 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 298mS.
+2025-11-02 20:52:36,811 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 20:52:36,920 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 20:52:38,202 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1391mS.
+2025-11-02 20:52:38,204 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 20:52:38,211 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-11-02 21:01:53,293 [INFO] MainUpdater:2872 - connection check result : 10
+2025-11-02 21:01:53,445 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 21:01:53,446 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 21:01:53,447 [INFO] FinderPluginLoader:96 - Searching for filters in installed packs
+2025-11-02 21:01:56,459 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 21:01:56,460 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 21:02:16,210 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 21:02:16,292 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 21:02:16,292 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 21:02:50,301 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 21:02:50,493 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2025-11-02 21:02:50,494 [INFO] ApiDb:452 - User favorites MCUs=[]
+2025-11-02 21:02:50,496 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2025-11-02 21:02:50,497 [INFO] ApiDb:452 - User favorites Boards=[]
+2025-11-02 21:04:42,766 [INFO] MainUpdater:2872 - connection check result : 10
+2025-11-02 21:04:42,934 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 21:04:42,935 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-11-02 21:04:42,935 [INFO] FinderPluginLoader:96 - Searching for filters in installed packs
+2025-11-02 21:04:43,895 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-11-02 21:04:43,895 [INFO] DetailPanel:341 - Set advertising image to C:/Users/HP/STM32Cube/Repository/\en.mcu-finder-stm32n6dk.jpg
+2025-11-02 21:13:28,366 [INFO] MainUpdater:2872 - connection check result : 10
+2025-11-02 21:13:28,366 [INFO] MainUpdater:2872 - connection check result : 10
+2025-11-02 21:13:28,808 [INFO] MicroXplorer:468 - Change Database Path : 
+2025-11-02 21:13:28,808 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.150
+2025-11-02 21:13:28,849 [ERROR] ProjectManagerView:395 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$9.caretUpdate(ProjectChoiceTab.java:2706) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:408) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4484) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4506) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:857) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1343) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1242) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1223) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1819) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:227) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:781) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:740) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:699) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1725) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:993) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3813) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1987) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:558) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:247) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:392) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:899) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:792) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:288) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:364) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:342) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:264) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1198) ~[com.st.stm32cube.common.mx_6.15.0.202507011659/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1068) ~[com.st.stm32cube.common.mx_6.15.0.202507011659/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.15.0.202507011659/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.15.0.202507011659/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.15.0.202507011659/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2025-11-02 21:13:28,953 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2025-11-02 21:13:28,953 [INFO] ThirdParty:873 - entering critical section [close project]
+2025-11-02 21:13:28,953 [INFO] ThirdParty:883 - exiting critical section [close project]
+2025-11-02 21:13:28,955 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-11-02 21:13:28,990 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 566979184 Bytes (814743552)
+2025-11-02 21:13:28,991 [INFO] MicroXplorer:468 - Change Database Path : 
+2025-11-02 21:13:28,991 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.150
+2025-11-02 21:13:28,991 [INFO] OpenFileManager:355 - Change cursor
+2025-11-02 21:13:29,068 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-11-02 21:13:29,100 [INFO] Mcu:2029 - Initializing MCU STM32F103C8Tx STM32F103C8Tx STM32F103C8T6
+2025-11-02 21:13:30,802 [INFO] Context:786 - Trying to add GPIOservice into a context  which must be forbidden
+2025-11-02 21:13:31,121 [INFO] ImportTextPane:234 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2025-11-02 21:13:31,121 [INFO] ImportTextPane:234 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2025-11-02 21:13:31,122 [INFO] ImportTextPane:234 - (OptionalMessage_ERROR) Pin0 (VP_RIF_VS_RIF1) cannot be retrieved for this MCU
+2025-11-02 21:13:31,122 [INFO] ImportTextPane:234 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2025-11-02 21:13:31,176 [INFO] RtosManager:558 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-11-02 21:13:31,176 [INFO] RtosManager:558 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-11-02 21:13:31,176 [INFO] RtosManager:558 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-11-02 21:13:31,176 [INFO] RtosManager:558 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-11-02 21:13:31,176 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,197 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,198 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,199 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,199 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,199 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-11-02 21:13:31,199 [WARN] ModelPack:524 - Component already loaded: STMicroelectronics:HAL Drivers:0.0.0:STMicroelectronics:Device:STMicro_Driver:XSPI:HAL::0.0.1:HAL_XSPI
+2025-11-02 21:13:31,336 [INFO] ThirdPartyModel:298 - Start build external matchings
+2025-11-02 21:13:32,128 [INFO] ThirdPartyModel:316 - End build external matchings
+2025-11-02 21:13:32,467 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 473490048 Bytes (814743552)
+2025-11-02 21:13:32,521 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2025-11-02 21:13:32,521 [INFO] ThirdParty:835 - entering critical section [change project]
+2025-11-02 21:13:32,521 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-PM33A1 1.0.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC9 1.0.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.2
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.8.2
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.1.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.19.2
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.1.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.2.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-IPS 3.2.0
+2025-11-02 21:13:32,522 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 4.1.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC12 1.0.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ST67W61 1.1.0
+2025-11-02 21:13:32,523 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Cesanta I-CUBE-Mongoose 7.19.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :quantropi X-CUBE-qispace-sdk-base 2.1.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.1.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.1.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :EmbeddedOffice I-CUBE-FS-RTOS 1.0.1
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.4.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.7.1
+2025-11-02 21:13:32,524 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2025-11-02 21:13:32,525 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-WB05N 2.0.0
+2025-11-02 21:13:32,525 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-11-02 21:13:32,525 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-11-02 21:13:32,525 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfTPM 3.8.0
+2025-11-02 21:13:32,525 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.4.0
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSH 1.4.20
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 2.0.0
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.2.0
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :RealThread X-CUBE-RT-Thread_Nano 4.1.1
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC10 1.0.0
+2025-11-02 21:13:32,526 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.3.1
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ST60 1.1.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 7.1.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.9.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.26.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-STSE01 1.0.0
+2025-11-02 21:13:32,527 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-STBOX1 2.1.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 10.2.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-STAIOTCFT 1.0.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.1.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DPower 1.3.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 11.3.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-11-02 21:13:32,528 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2025-11-02 21:13:32,529 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-11-02 21:13:32,529 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-11-02 21:13:32,529 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2025-11-02 21:13:32,529 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2025-11-02 21:13:32,529 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.3
+2025-11-02 21:13:32,529 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-11-02 21:13:32,529 [INFO] ThirdParty:841 - exiting critical section [change project]
+2025-11-02 21:13:32,780 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-11-02 21:13:32,781 [INFO] PinOutPanel:1589 - setPackage(STM32F103C8Tx,LQFP48)
+2025-11-02 21:13:33,468 [INFO] UtilMem:75 - Before build in PCC Used Memory: 305547632 Bytes (814743552)
+2025-11-02 21:13:33,948 [INFO] UtilMem:75 - After build in PCC Used Memory: 350636400 Bytes (814743552)
+2025-11-02 21:13:33,977 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,977 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,977 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,977 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,977 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,977 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,978 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,978 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,978 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,978 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,978 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,979 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,979 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,979 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,980 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,980 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,980 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,981 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,981 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,981 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,981 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,981 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,982 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,982 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,982 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,982 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:33,983 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-11-02 21:13:34,017 [INFO] CADModel:165 - CPN selected for project levelSTM32F103C8T6
+2025-11-02 21:13:34,018 [INFO] CADModel:114 - Register for checkConnection events
+2025-11-02 21:13:34,077 [INFO] OpenFileManager:386 - Restore cursor
+2025-11-02 21:13:34,597 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 405361256 Bytes (814743552)
+2025-11-02 21:13:34,668 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 417745264 Bytes (814743552)
+2025-11-02 21:13:35,086 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 21:13:35,086 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 21:13:35,089 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 21:13:35,216 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\license.tmp_save
+2025-11-02 21:13:35,645 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\license.tmp
+2025-11-02 21:13:35,677 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 21:13:36,286 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_it.c
+2025-11-02 21:13:36,301 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 21:13:36,479 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_it.h
+2025-11-02 21:13:36,653 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 21:13:36,873 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 21:13:36,889 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\system.tmp_save
+2025-11-02 21:13:37,029 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\system.tmp
+2025-11-02 21:13:37,055 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 21:13:37,205 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 21:13:37,243 [INFO] ApiDbMcu:532 - Load IP Config File for RCC
+2025-11-02 21:13:37,261 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\main.h_save
+2025-11-02 21:13:37,488 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\main.h
+2025-11-02 21:13:37,501 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\main.c_save
+2025-11-02 21:13:37,681 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\main.c
+2025-11-02 21:13:38,438 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 352mS.
+2025-11-02 21:13:38,449 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 21:13:38,698 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 21:13:38,800 [INFO] ApiDbMcu:532 - Load IP Config File for FATFS
+2025-11-02 21:13:38,825 [INFO] ApiDbMcu:532 - Load IP Config File for FREERTOS
+2025-11-02 21:13:38,850 [INFO] ApiDbMcu:532 - Load IP Config File for USB_DEVICE
+2025-11-02 21:13:43,776 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 5327mS.
+2025-11-02 21:13:43,778 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 21:13:43,785 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-11-02 21:13:44,704 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-11-02 21:13:44,708 [INFO] ApiDb:448 - Save user favorites file C:\Users\HP/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2025-11-02 21:13:44,708 [INFO] ApiDb:452 - User favorites MCUs=[]
+2025-11-02 21:15:36,185 [INFO] Gpio:278 - dependency for GPIO []
+2025-11-02 21:16:04,409 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 750918352 Bytes (814743552)
+2025-11-02 21:16:16,408 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 284416856 Bytes (814743552)
+2025-11-02 21:16:32,948 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 367505968 Bytes (814743552)
+2025-11-02 21:16:33,522 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-02 21:16:33,523 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-02 21:16:33,523 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-02 21:16:33,526 [INFO] CodeGenerator:892 - code generatio: config db path: D:\Documents\Tools\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-11-02 21:16:33,650 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\license.tmp_save
+2025-11-02 21:16:33,894 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\license.tmp
+2025-11-02 21:16:33,966 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\gpio.tmp_save
+2025-11-02 21:16:34,149 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\gpio.tmp
+2025-11-02 21:16:34,182 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_it.c_save
+2025-11-02 21:16:34,339 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_it.c
+2025-11-02 21:16:34,357 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_it.h_save
+2025-11-02 21:16:34,515 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_it.h
+2025-11-02 21:16:34,566 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_hal_msp.c_save
+2025-11-02 21:16:34,764 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\stm32f1xx_hal_msp.c
+2025-11-02 21:16:34,776 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\system.tmp_save
+2025-11-02 21:16:34,906 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\MXTmpFiles\system.tmp
+2025-11-02 21:16:34,939 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-11-02 21:16:35,079 [INFO] CodeEngine:345 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\stm32f1xx_hal_conf.h
+2025-11-02 21:16:35,142 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\main.h_save
+2025-11-02 21:16:35,270 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Inc\main.h
+2025-11-02 21:16:35,291 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\main.c_save
+2025-11-02 21:16:35,477 [INFO] CodeEngine:289 - Generated code: C:\Users\HP\STM32CubeIDE\workspace_1.19.0\STM32_Project\Core\Src\main.c
+2025-11-02 21:16:36,125 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 341mS.
+2025-11-02 21:16:36,133 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-02 21:16:36,271 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-11-02 21:16:37,935 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1802mS.
+2025-11-02 21:16:37,937 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 21:16:37,945 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-02 21:21:39,210 [INFO] WebApp:194 - Connection lost
+2025-11-02 21:21:40,778 [INFO] WebApp:191 - Connection restablished
+2025-11-02 21:21:43,216 [INFO] WebApp:194 - Connection lost
+2025-11-02 21:21:43,376 [INFO] WebApp:191 - Connection restablished
+2025-11-02 21:21:45,333 [INFO] WebApp:194 - Connection lost
+2025-11-02 21:21:45,692 [INFO] WebApp:191 - Connection restablished
+2025-11-02 21:21:48,576 [INFO] WebApp:194 - Connection lost
+2025-11-02 21:21:48,751 [INFO] WebApp:191 - Connection restablished

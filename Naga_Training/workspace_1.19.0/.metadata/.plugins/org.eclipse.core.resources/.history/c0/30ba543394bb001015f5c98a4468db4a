@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <float.h>   // for FLT_MAX, FLT_MIN
+
+#define CELL_COUNT 6
+#define TERM_COUNT 2
+
+int main(void)
+{
+    // Example temperatures — you can modify these
+    float cell_temp[CELL_COUNT] = {25.4, 26.1, 24.8, 27.0, 25.9, 26.3};
+    float term_temp[TERM_COUNT] = {28.2, 27.6};
+
+    // Initialize with extreme values
+    float cell_min =  FLT_MAX;
+    float cell_max = -FLT_MAX;
+    float term_min =  FLT_MAX;
+    float term_max = -FLT_MAX;
+
+    // ---- Find min and max for cell thermistors ----
+    for (int i = 0; i < CELL_COUNT; i++) {
+        if (cell_temp[i] < cell_min) cell_min = cell_temp[i];
+        if (cell_temp[i] > cell_max) cell_max = cell_temp[i];
+    }
+
+    // ---- Find min and max for terminal thermistors ----
+    for (int i = 0; i < TERM_COUNT; i++) {
+        if (term_temp[i] < term_min) term_min = term_temp[i];
+        if (term_temp[i] > term_max) term_max = term_temp[i];
+    }
+
+    // ---- Print results ----
+    printf("Cell Top Temperatures:\n");
+    printf("  Min = %.2f °C\n", cell_min);
+    printf("  Max = %.2f °C\n", cell_max);
+
+    printf("\nTerminal Temperatures:\n");
+    printf("  Min = %.2f °C\n", term_min);
+    printf("  Max = %.2f °C\n", term_max);
+
+    return 0;
+}

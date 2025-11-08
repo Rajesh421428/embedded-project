@@ -1,0 +1,5 @@
+1762139949521	Rename resource 'lcd_i2c.h'
+1762139963740	Rename resource 'lcd_i2c.c'
+1762140181854	Rename resource 'led_i2c.h'
+1762140193619	Rename resource 'led_i2c.c'
+1762140217492	Move 'lcd_i2c.h' to 'Inc'
